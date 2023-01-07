@@ -1,0 +1,107 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="PackedScene" uid="uid://kxn8p8mwdkny" path="res://scenes/limestonewall.tscn" id="1_qx227"]
+
+[node name="tower" type="Node3D"]
+
+[node name="brickwall" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -1, 0, 4)
+
+[node name="brickwall2" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 1, 0, 4)
+
+[node name="brickwall3" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 3)
+
+[node name="brickwall4" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 1)
+
+[node name="brickwall5" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, -1)
+
+[node name="brickwall6" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(2.98023e-08, 0, 1, 0, 1, 0, -1, 0, 2.98023e-08, 1, 0, -2)
+
+[node name="brickwall7" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(2.98023e-08, 0, 1, 0, 1, 0, -1, 0, 2.98023e-08, -1, 0, -2)
+
+[node name="brickwall8" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.39091e-08, 0, 1, 0, 1.39091e-08, 0, -1, -2, 0, -1)
+
+[node name="brickwall9" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.39091e-08, 0, 1, 0, 1.39091e-08, 0, -1, -2, 0, 1)
+
+[node name="brickwall10" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.39091e-08, 0, 1, 0, 1.39091e-08, 0, -1, -2, 0, 3)
+
+[node name="brickwall11" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(5.76205e-08, 0, -1, 0, 1, 0, 1, 0, 5.76205e-08, 0, 2, 3)
+
+[node name="brickwall12" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 1.01332e-07, 0, 1, 0, -1.01332e-07, 0, 1, 0.995835, 2.00497, 1.99841)
+
+[node name="brickwall14" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 1.01332e-07, 0, 1, 0, -1.01332e-07, 0, 1, 0.995835, 2.00497, -0.00159001)
+
+[node name="brickwall15" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.88755e-07, 0, 1, 0, 1.88755e-07, 0, -1, -1.00416, 2.00497, -0.00159001)
+
+[node name="brickwall16" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.88755e-07, 0, 1, 0, 1.88755e-07, 0, -1, -1.00416, 2.00497, 1.99841)
+
+[node name="brickwall13" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1.45043e-07, 0, 1, 0, 1, 0, -1, 0, -1.45043e-07, -0.00416499, 2.00497, -1.00159)
+
+[node name="brickwall17" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(5.76205e-08, 0, -1, 0, 1, 0, 1, 0, 5.76205e-08, 0, 4, 3)
+
+[node name="brickwall18" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 1.01332e-07, 0, 1, 0, -1.01332e-07, 0, 1, 0.995835, 4.00497, 1.99841)
+
+[node name="brickwall19" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 1.01332e-07, 0, 1, 0, -1.01332e-07, 0, 1, 0.995835, 4.00497, -0.00159001)
+
+[node name="brickwall20" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.88755e-07, 0, 1, 0, 1.88755e-07, 0, -1, -1.00416, 4.00497, -0.00159001)
+
+[node name="brickwall21" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.88755e-07, 0, 1, 0, 1.88755e-07, 0, -1, -1.00416, 4.00497, 1.99841)
+
+[node name="brickwall22" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1.45043e-07, 0, 1, 0, 1, 0, -1, 0, -1.45043e-07, -0.00416499, 4.00497, -1.00159)
+
+[node name="brickwall23" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(5.76205e-08, 0, -1, 0, 1, 0, 1, 0, 5.76205e-08, 0, 6, 3)
+
+[node name="brickwall24" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 1.01332e-07, 0, 1, 0, -1.01332e-07, 0, 1, 0.995835, 6.00497, 1.99841)
+
+[node name="brickwall27" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.88755e-07, 0, 1, 0, 1.88755e-07, 0, -1, -1.00416, 6.00497, 1.99841)
+
+[node name="brickwall28" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1.45043e-07, 0, 1, 0, 1, 0, -1, 0, -1.45043e-07, -0.00416499, 6.00497, 0.99841)
+
+[node name="brickwall25" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(5.76205e-08, 0, -1, 0, 1, 0, 1, 0, 5.76205e-08, 0, 8, 3)
+
+[node name="brickwall26" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 1.01332e-07, 0, 1, 0, -1.01332e-07, 0, 1, 0.995835, 8.00497, 1.99841)
+
+[node name="brickwall29" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.88755e-07, 0, 1, 0, 1.88755e-07, 0, -1, -1.00416, 8.00497, 1.99841)
+
+[node name="brickwall30" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1.45043e-07, 0, 1, 0, 1, 0, -1, 0, -1.45043e-07, -0.00416499, 8.00497, 0.99841)
+
+[node name="brickwall31" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(5.76205e-08, 0, -1, 0, 1, 0, 1, 0, 5.76205e-08, 0, 10, 3)
+
+[node name="brickwall32" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(1, 0, 1.01332e-07, 0, 1, 0, -1.01332e-07, 0, 1, 0.995835, 10.005, 1.99841)
+
+[node name="brickwall33" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1, 0, -1.88755e-07, 0, 1, 0, 1.88755e-07, 0, -1, -1.00416, 10.005, 1.99841)
+
+[node name="brickwall34" parent="." instance=ExtResource("1_qx227")]
+transform = Transform3D(-1.45043e-07, 0, 1, 0, 1, 0, -1, 0, -1.45043e-07, -0.00416499, 10.005, 0.99841)

@@ -1,0 +1,299 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="PackedScene" uid="uid://dvd18sv283v5v" path="res://scenes/forest.tscn" id="1_fgo4w"]
+
+[node name="forest-border" type="Node3D"]
+
+[node name="forest" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -1)
+
+[node name="forest2" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 1)
+
+[node name="forest3" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 3)
+
+[node name="forest4" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 5)
+
+[node name="forest5" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 7)
+
+[node name="forest6" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -11)
+
+[node name="forest7" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -9)
+
+[node name="forest8" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -7)
+
+[node name="forest9" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -5)
+
+[node name="forest10" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -3)
+
+[node name="forest11" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -21)
+
+[node name="forest12" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -19)
+
+[node name="forest13" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -17)
+
+[node name="forest14" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -15)
+
+[node name="forest15" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -13)
+
+[node name="forest18" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -27)
+
+[node name="forest19" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -25)
+
+[node name="forest20" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -23)
+
+[node name="forest16" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -35)
+
+[node name="forest17" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -33)
+
+[node name="forest75" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -31)
+
+[node name="forest76" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -29)
+
+[node name="forest77" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -41)
+
+[node name="forest78" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -39)
+
+[node name="forest79" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -37)
+
+[node name="forest80" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -49)
+
+[node name="forest81" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -47)
+
+[node name="forest82" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -45)
+
+[node name="forest83" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -43)
+
+[node name="forest85" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -53)
+
+[node name="forest92" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 0, -55)
+
+[node name="forest86" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, -51)
+
+[node name="forest84" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -9, 0, -54)
+
+[node name="forest87" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -11, 0, -54)
+
+[node name="forest88" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -13, 0, -54)
+
+[node name="forest89" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -5, 0, -54)
+
+[node name="forest91" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -3, 0, -54)
+
+[node name="forest90" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -7, 0, -54)
+
+[node name="forest93" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 3, 0, -56)
+
+[node name="forest94" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 1, 0, -56)
+
+[node name="forest95" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -1, 0, -56)
+
+[node name="forest96" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 7, 0, -56)
+
+[node name="forest97" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 9, 0, -56)
+
+[node name="forest98" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 5, 0, -56)
+
+[node name="forest21" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -11, 0, 16)
+
+[node name="forest22" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -9, 0, 16)
+
+[node name="forest23" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -7, 0, 16)
+
+[node name="forest24" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -5, 0, 16)
+
+[node name="forest25" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -3, 0, 16)
+
+[node name="forest26" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 9)
+
+[node name="forest27" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 11)
+
+[node name="forest28" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 13)
+
+[node name="forest29" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -14, 0, 15)
+
+[node name="forest38" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -5)
+
+[node name="forest39" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -7)
+
+[node name="forest40" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -9)
+
+[node name="forest41" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -11)
+
+[node name="forest42" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -13)
+
+[node name="forest43" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 5)
+
+[node name="forest44" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 3)
+
+[node name="forest45" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 1)
+
+[node name="forest46" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, -1)
+
+[node name="forest57" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(1.31134e-07, 0, -1, 0, 1, 0, 1, 0, 1.31134e-07, 11, 0, -2)
+
+[node name="forest47" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -3)
+
+[node name="forest48" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 15)
+
+[node name="forest49" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 13)
+
+[node name="forest50" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 11)
+
+[node name="forest51" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 9)
+
+[node name="forest52" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 12, 0, 7)
+
+[node name="forest53" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -15)
+
+[node name="forest54" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -17)
+
+[node name="forest55" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -19)
+
+[node name="forest56" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -21)
+
+[node name="forest58" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -25)
+
+[node name="forest59" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -27)
+
+[node name="forest60" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -29)
+
+[node name="forest61" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -31)
+
+[node name="forest62" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -33)
+
+[node name="forest63" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -23)
+
+[node name="forest64" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -35)
+
+[node name="forest65" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -37)
+
+[node name="forest66" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -39)
+
+[node name="forest67" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -41)
+
+[node name="forest68" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -45)
+
+[node name="forest69" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -47)
+
+[node name="forest70" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -49)
+
+[node name="forest71" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -51)
+
+[node name="forest72" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -53)
+
+[node name="forest73" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -43)
+
+[node name="forest74" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 10, 0, -55)
+
+[node name="forest30" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -13, 0, 16)
+
+[node name="forest31" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 1, 0, 16)
+
+[node name="forest32" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 3, 0, 16)
+
+[node name="forest33" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 5, 0, 16)
+
+[node name="forest34" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 7, 0, 16)
+
+[node name="forest35" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 9, 0, 16)
+
+[node name="forest37" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 11, 0, 16)
+
+[node name="forest36" parent="." instance=ExtResource("1_fgo4w")]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -1, 0, 16)
